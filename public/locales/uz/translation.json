@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "1":"ASOSIY",
+        "2":"BIZ HAQIMIZDA",
+        "3":"MAXSULOTLAR",
+        "4":"KONTAKT"
+    },
+    "Home":{
+        "1":"BIZNING MIJOZLR",
+        "2":"XARIDORGIR",
+        "3":"BIZNING MAXSULOTLAR",
+        "4":"KATEGORIYALARNI KO'RING",
+        "5":"BIZ TAVSIYA QILAMIZ",
+        "Header":{
+            "1":"Mujassamlantir",
+            "2":"Geleksi",
+            "3":"Qo`l soatlari",
+            "4":"Hoziroq sotib ol"
+        },
+        "Discount":{
+            "1":"Qo`shimcha",
+            "2":"Online",
+            "3":"30% li",
+            "4":"Chegirma",
+            "5":"99$ dan yuqori haridlarni bepul yetkazib berish"
+        },
+        "Pages":{
+            "1":"KIYIM-KECHAK MAXSULOTLARI",
+            "2":"OYOQ-KIYIM MAXSULOTLARI",
+            "3":"QULOQCHINLAR"
+        }
+        
+    },
+    "Footer":{
+        "1":"XABARNOMAMIZGA OBUNA BO`LING",
+        "2":"Voqealar, sotuvlar va takliflar bo'yicha barcha so'nggi ma'lumotlarni oling.",
+        "3":"sizning elektron pochtangiz...",
+        "4":"obuna bo`ling",
+        "5":"ALOQA HAQIDA MA`LUMOT",
+        "6":"MENING HISOBIM",
+        "7":"Barcha huquqlar himoyalangan"
+    },
+    "Contact": {
+        "1": "BIZ bilan bog'laning",
+        "2": "DO'KONLARIMIZ",
+        "3": "Keling, bog'lanaylik",
+        "4": "Elektron pochta manzilingiz nashr etilmaydi. Kerakli maydonlar *",
+        "5": "ismingiz",
+        "6": "elektron pochtangiz",
+        "7": "sizning xabaringiz",
+        "8": "topshirish",
+        "9": "Biz bilan bog'laning",
+        "10": "Shtab-markaz",
+        "11": "Nyu-Yorkdagi B1600 amfiteatr",
+        "12": "TELEFON",
+        "13": "qo'llab-quvvatlash",
+        "14": "SOTISH",
+        "15":"Toshkent",
+        "16":"Samarqand",
+        "17":"Farg`ona",
+        "18":"Andijon"
+    },
+    "About":{
+        "1":"BIZ HAQIMIZDA",
+        "2":"Biz kimmiz?",
+        "3":"Bizning xaridorlar"
+    },
+    "Tools":{
+        "1":"savatchangiz",
+        "2":"Umumiy",
+        "3":"Hoziroq  kashf et",
+        "4":"BREND",
+        "5":"Savatchaga qo`sh"
+    }
+  }

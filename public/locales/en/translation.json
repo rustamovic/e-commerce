@@ -1,0 +1,74 @@
+{
+    "Header": {
+        "1":"HOME",
+        "2":"ABOUT US",
+        "3":"PRODUCTS",
+        "4":"CONTACT US"
+    },
+    "Home":{
+        "1":"OUR CLIENTS",
+        "2":"BEST SELLING",
+        "3":"OUR PRODUCTS",
+        "4":"BROWSE OUR CATEGORIES",
+        "5":"OUR FEATURED",
+        "Header":{
+            "1":"Shop Personalize",
+            "2":"Your Galaxy",
+            "3":"Watches",
+            "4":"Shop now"
+        },
+        "Discount":{
+            "1":"Extra",
+            "2":"Online",
+            "3":"30% off",
+            "4":"lifestyle collection",
+            "5":"free shipping on orders over $99"
+        },
+        "Pages":{
+            "1":"SHIRTS PRODUCTS",
+            "2":"SHOES PRODUCTS",
+            "3":"HEADPHONES"
+        }
+    },
+    "Footer":{
+        "1":"SUBSCRIBE TO OUR NEWSLETTER",
+        "2":"Get all the latest information on Events, Sales and Offers.",
+        "3":"your email...",
+        "4":"subscribe",
+        "5":"CONTACT INFO",
+        "6":"MY ACCOUNT",
+        "7":"All Rights Reserved"
+    },
+    "Contact": {
+        "1":"CONTACT US",
+        "2":"OUR STORES",
+        "3":"Let's Connect",
+        "4":"Your email addres will not be published. Required fields are marked *",
+        "5":"your name",
+        "6":"your email",
+        "7":"your message",
+        "8":" submit",
+        "9":"Contact Us",
+        "10":"HEADQUARTERS",
+        "11":"B1600 Amphitheatre Parkway New York",
+        "12":"PHONE",
+        "13":"support",
+        "14":"SALES",
+        "15":"Tashkent",
+        "16":"Samarkand",
+        "17":"Ferghana",
+        "18":"Andijan"
+    },
+    "About":{
+        "1":"ABOUT US",
+        "2":"Who We Are?",
+        "3":"OUR CUSTOMERS"
+    },
+    "Tools":{
+        "1":"Your cart",
+        "2":"Total",
+        "3":"Discover now",
+        "4":"BRAND",
+        "5":"Add To Cart"
+    }
+  }
